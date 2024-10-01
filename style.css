@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(210, 210, 250);
+}
+
+.content {
+    display: grid;
+    place-items: center;
+}
+
+.logo-upb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
